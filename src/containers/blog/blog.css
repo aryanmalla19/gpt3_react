@@ -10,7 +10,7 @@
 }
 
 .gpt3__blog-heading h1 {
-    font-family: Manrope;
+    font-family: var(--font-family);
     font-size: 62px;
     font-style: normal;
     font-weight: 800;

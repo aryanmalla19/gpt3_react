@@ -41,7 +41,7 @@
 
 .gpt3__possibility-content h1 {
     color: #FFF;
-    font-family: Manrope;
+    font-family: var(--font-family);
     font-size: 34px;
     font-style: normal;
     font-weight: 800;
@@ -51,7 +51,7 @@
 
 .gpt3__possibility-content p {
     color: #81AFDD;
-    font-family: Manrope;
+    font-family: var(--font-family);
     font-size: 16px;
     font-style: normal;
     font-weight: 400;

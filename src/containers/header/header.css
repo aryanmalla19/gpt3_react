@@ -37,7 +37,7 @@
 .gpt3__header-content__input input{
     background: var(--color-footer);
     border-radius: 5px 0px 0px 5px;
-    font-family: Manrope;
+    font-family: var(--font-family);
     flex: 2;
     width: 100%;
     min-height: 50px;
@@ -48,6 +48,7 @@
     padding: 0 1rem;
     outline: none;
     border: none;
+    color: #FFFFFF;
 }
 
 .gpt3__header-content__input button{
@@ -57,7 +58,7 @@
     background: #FF4820;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    font-family: Manrope;
+    font-family: var(--font-family);
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
