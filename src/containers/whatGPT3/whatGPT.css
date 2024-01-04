@@ -108,9 +108,13 @@
         margin-top: 0.5rem;
     }
 
+    .section__margin{
+        margin: 2rem;
+    }
+
     .gpt3__whatgpt3-heading h1 {
-        font-size: 28px;
-        line-height: 40px;
+        font-size: 25px;
+        line-height: 30px;
     }
 }
 
